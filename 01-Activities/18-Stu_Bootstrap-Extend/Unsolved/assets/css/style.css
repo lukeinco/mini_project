@@ -1,0 +1,17 @@
+:root {
+  --brown: #664C28;
+  --tan: #EACCA1;
+  --darktan: #E6AC5A;
+}
+
+/* Add your custom class style definitions here */
+/* HINT: Apply CSS variables using `var(--brown)` syntax as your property value */
+.brown {
+  background-color: var(--brown);
+}
+.hero{
+  background-color: var(--tan);
+}
+.custom-btn {
+  background-color: #E6AC5A;
+}
